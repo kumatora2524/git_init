@@ -1,3 +1,5 @@
 Git管理を始めるよ
 ワークフロー
 git の使い方
+git rm
+git status
