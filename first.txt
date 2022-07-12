@@ -3,3 +3,4 @@ Git管理を始めるよ
 git の使い方
 git rm
 git status
+git diff
